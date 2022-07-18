@@ -1,0 +1,42 @@
+vlc 
+-
+-
+-
+sudo apt update
+
+sudo apt install python3-pip
+
+pip install rplidar-roboticia
+
+pip3 install python-vlc
+
+sudo apt install vlc
+
+
+-
+-
+-
+
+# importing vlc module
+import vlc
+  
+# importing time module
+import time
+  
+  
+# creating vlc media player object
+media_player = vlc.MediaPlayer()
+  
+# media object
+media = vlc.Media("death_note.mkv")
+  
+# setting media to the media player
+media_player.set_media(media)
+
+# setting volume
+media_player.audio_set_volume(50)
+
+# setting loop
+player.vlm_set_loop("death_note", True)
+
+
