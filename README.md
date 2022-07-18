@@ -5,6 +5,9 @@ In this project, we produce LIDAR Motion based musical system. The system has th
 ![img](https://github.com/EmreDus/Lidar_MotionBased_Musical_System/blob/main/circuit_sheme.png)
 
 Muhammet Emre DUŞ
+
 Sakarya University of Applied Sciences
+
 Faculty of Technology
+
 b180918017@subu.edu.tr
